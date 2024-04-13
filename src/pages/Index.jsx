@@ -5,19 +5,19 @@ import { FaShoppingCart } from "react-icons/fa";
 const hoodies = [
   {
     id: 1,
-    name: "Nebula Hoodie",
+    name: "White Shirt",
     price: 49.99,
     image: "https://images.unsplash.com/photo-1623538973749-b3422f7c089b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxuZWJ1bGElMjBzcGFjZSUyMGhvb2RpZXxlbnwwfHx8fDE3MTMwNDY4Njd8MA&ixlib=rb-4.0.3&q=80&w=1080",
   },
   {
     id: 2,
-    name: "Astronaut Hoodie",
+    name: "Black Shirt",
     price: 59.99,
     image: "https://images.unsplash.com/photo-1484589065579-248aad0d8b13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxhc3Ryb25hdXQlMjBpbiUyMHNwYWNlJTIwaG9vZGllfGVufDB8fHx8MTcxMzA0Njg2OHww&ixlib=rb-4.0.3&q=80&w=1080",
   },
   {
     id: 3,
-    name: "Cosmic Hoodie",
+    name: "Cream Shirt",
     price: 44.99,
     image: "https://images.unsplash.com/photo-1446776709462-d6b525c57bd3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxjb2xvcmZ1bCUyMHNwYWNlJTIwZ2FsYXh5JTIwaG9vZGllfGVufDB8fHx8MTcxMzA0Njg2OHww&ixlib=rb-4.0.3&q=80&w=1080",
   },
